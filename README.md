@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [siNUsoid Marketing Website](https://github.com/kaustav-karan/sinunextfront)
 
-- 🌱 I’m currently learning **Goland**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React, Express, Nodejs and database solutions**
 
